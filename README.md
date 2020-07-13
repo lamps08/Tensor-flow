@@ -1,2 +1,2 @@
 # Tensor-flow
-Simple tensor flow for chest Xrays 
+Simple example using tensor flow for chest Xrays 
